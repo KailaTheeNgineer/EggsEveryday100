@@ -1,1 +1,7 @@
-# EggsEveryday100
+![Chicken Coop 1](src/resources/1.jpg)
+![Chicken Coop 2](src/resources/2.jpg)
+![Chicken Coop 3](src/resources/3.jpg)
+![Chicken Coop 4](src/resources/4.jpg)
+![Chicken Coop 5](src/resources/5.jpg)
+![Chicken Coop 6](src/resources/6.jpg)
+![Chicken Coop 7](src/resources/7.jpg)
